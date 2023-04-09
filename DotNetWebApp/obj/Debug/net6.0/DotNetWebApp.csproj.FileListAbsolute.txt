@@ -1,0 +1,64 @@
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\bin\Debug\net6.0\appsettings.Development.json
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\bin\Debug\net6.0\appsettings.json
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\bin\Debug\net6.0\DotNetWebApp.exe
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\bin\Debug\net6.0\DotNetWebApp.deps.json
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\bin\Debug\net6.0\DotNetWebApp.runtimeconfig.json
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\bin\Debug\net6.0\DotNetWebApp.dll
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\bin\Debug\net6.0\DotNetWebApp.pdb
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\DotNetWebApp.csproj.AssemblyReference.cache
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\DotNetWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\DotNetWebApp.AssemblyInfoInputs.cache
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\DotNetWebApp.AssemblyInfo.cs
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\DotNetWebApp.csproj.CoreCompileInputs.cache
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\DotNetWebApp.MvcApplicationPartsAssemblyInfo.cs
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\DotNetWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\staticwebassets\msbuild.DotNetWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.DotNetWebApp.props
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DotNetWebApp.props
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DotNetWebApp.props
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\scopedcss\bundle\DotNetWebApp.styles.css
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\DotNetWebApp.csproj.CopyComplete
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\DotNetWebApp.dll
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\refint\DotNetWebApp.dll
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\DotNetWebApp.pdb
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\DotNetWebApp.genruntimeconfig.cache
+D:\PipelineDemo\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\ref\DotNetWebApp.dll
+D:\New folder\DotNetWebApp\DotNetWebApp\bin\Debug\net6.0\appsettings.Development.json
+D:\New folder\DotNetWebApp\DotNetWebApp\bin\Debug\net6.0\appsettings.json
+D:\New folder\DotNetWebApp\DotNetWebApp\bin\Debug\net6.0\DotNetWebApp.exe
+D:\New folder\DotNetWebApp\DotNetWebApp\bin\Debug\net6.0\DotNetWebApp.deps.json
+D:\New folder\DotNetWebApp\DotNetWebApp\bin\Debug\net6.0\DotNetWebApp.runtimeconfig.json
+D:\New folder\DotNetWebApp\DotNetWebApp\bin\Debug\net6.0\DotNetWebApp.dll
+D:\New folder\DotNetWebApp\DotNetWebApp\bin\Debug\net6.0\DotNetWebApp.pdb
+D:\New folder\DotNetWebApp\DotNetWebApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\New folder\DotNetWebApp\DotNetWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder\DotNetWebApp\DotNetWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder\DotNetWebApp\DotNetWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\DotNetWebApp.csproj.AssemblyReference.cache
+D:\New folder\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\DotNetWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\DotNetWebApp.AssemblyInfoInputs.cache
+D:\New folder\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\DotNetWebApp.AssemblyInfo.cs
+D:\New folder\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\DotNetWebApp.csproj.CoreCompileInputs.cache
+D:\New folder\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\DotNetWebApp.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\DotNetWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\staticwebassets\msbuild.DotNetWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.DotNetWebApp.props
+D:\New folder\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DotNetWebApp.props
+D:\New folder\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DotNetWebApp.props
+D:\New folder\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\New folder\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\New folder\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\New folder\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\scopedcss\bundle\DotNetWebApp.styles.css
+D:\New folder\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\DotNetWebApp.csproj.CopyComplete
+D:\New folder\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\DotNetWebApp.dll
+D:\New folder\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\refint\DotNetWebApp.dll
+D:\New folder\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\DotNetWebApp.pdb
+D:\New folder\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\DotNetWebApp.genruntimeconfig.cache
+D:\New folder\DotNetWebApp\DotNetWebApp\obj\Debug\net6.0\ref\DotNetWebApp.dll
